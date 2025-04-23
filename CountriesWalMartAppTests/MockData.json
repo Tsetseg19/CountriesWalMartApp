@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Afghanistan",
+        "region": "AS",
+        "code": "AF",
+        "capital": "Kabul"
+    },
+    {
+        "name": "Albania",
+        "region": "EU",
+        "code": "AL",
+        "capital": "Tirana"
+    }
+]
